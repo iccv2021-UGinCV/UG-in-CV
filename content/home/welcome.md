@@ -1,5 +1,5 @@
 ---
-widget: blank
+widget: hero
 widget_id: testing
 headless: true
 weight: 10
